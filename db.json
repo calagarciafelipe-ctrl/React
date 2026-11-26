@@ -1,0 +1,276 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Ibagué al amanecer",
+      "category": "Balada",
+      "mood": "Tranquila",
+      "duration": 215,
+      "rating": 5,
+      "description": "Balada suave para las mañanas frías de la ciudad musical, con guitarra acústica y una voz cálida que acompaña el café.",
+      "credits": [
+        {
+          "role": "Voz",
+          "name": "Mariana Vega"
+        },
+        {
+          "role": "Composición",
+          "name": "Mariana Vega"
+        },
+        {
+          "role": "Guitarra",
+          "name": "Julián Peña"
+        }
+      ],
+      "notes": [
+        "Se grabó en una sola toma en un estudio casero.",
+        "Abre con el sonido de una tiple."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-01T10:00:00.000Z",
+      "artist": {
+        "name": "Mariana Vega",
+        "country": "Colombia",
+        "bio": "Cantautora tolimense."
+      }
+    },
+    {
+      "id": "2",
+      "title": "Ruido en el Combeima",
+      "category": "Rock",
+      "mood": "Intensa",
+      "duration": 248,
+      "rating": 4,
+      "description": "Rock con guitarras distorsionadas inspirado en el río que cruza la ciudad.",
+      "credits": [
+        {
+          "role": "Voz",
+          "name": "Andrés Salas"
+        },
+        {
+          "role": "Guitarra",
+          "name": "Sebastián Mora"
+        },
+        {
+          "role": "Batería",
+          "name": "Daniel Cruz"
+        }
+      ],
+      "notes": [
+        "Fue el primer sencillo de la banda.",
+        "El video se filmó junto al río."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-03T10:00:00.000Z",
+      "artist": {
+        "name": "Los Hijos del Combeima",
+        "country": "Colombia",
+        "bio": "Banda de rock de Ibagué."
+      }
+    },
+    {
+      "id": "3",
+      "title": "Bailemos otra vez",
+      "category": "Salsa",
+      "mood": "Alegre",
+      "duration": 232,
+      "rating": 5,
+      "description": "Salsa de metales brillantes y percusión enérgica, hecha para llenar la pista de baile.",
+      "credits": [
+        {
+          "role": "Dirección",
+          "name": "Camilo Rojas"
+        },
+        {
+          "role": "Trompeta",
+          "name": "Iván Duque"
+        },
+        {
+          "role": "Percusión",
+          "name": "Mateo Gil"
+        }
+      ],
+      "notes": [
+        "Tiene un solo de trompeta de 30 segundos.",
+        "Se estrenó en un festival folclórico."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-05T10:00:00.000Z",
+      "artist": {
+        "name": "Camilo Rojas",
+        "country": "Colombia",
+        "bio": "Productor de salsa y música tropical."
+      }
+    },
+    {
+      "id": "4",
+      "title": "Camino a Honda",
+      "category": "Vallenato",
+      "mood": "Alegre",
+      "duration": 205,
+      "rating": 4,
+      "description": "Vallenato con acordeón que narra un viaje por carretera junto al río Magdalena.",
+      "credits": [
+        {
+          "role": "Acordeón",
+          "name": "Tomás Reyes"
+        },
+        {
+          "role": "Voz",
+          "name": "Laura Peña"
+        },
+        {
+          "role": "Caja",
+          "name": "Nicolás Ayala"
+        }
+      ],
+      "notes": [
+        "El acordeón se grabó en vivo.",
+        "La letra se escribió durante un viaje real."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-08T10:00:00.000Z",
+      "artist": {
+        "name": "Dúo Río Magdalena",
+        "country": "Colombia",
+        "bio": "Dúo vallenato con raíces del Tolima."
+      }
+    },
+    {
+      "id": "5",
+      "title": "Luces de neón",
+      "category": "Pop",
+      "mood": "Alegre",
+      "duration": 198,
+      "rating": 4,
+      "description": "Pop electrónico y bailable con sintetizadores brillantes y un coro pegajoso.",
+      "credits": [
+        {
+          "role": "Voz",
+          "name": "Lía Montes"
+        },
+        {
+          "role": "Producción",
+          "name": "Esteban Mora"
+        },
+        {
+          "role": "Mezcla",
+          "name": "Paula Rincón"
+        }
+      ],
+      "notes": [
+        "Usa un sintetizador analógico de los años ochenta.",
+        "Es la canción más escuchada de su álbum."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-10T10:00:00.000Z",
+      "artist": {
+        "name": "Lía Montes",
+        "country": "Colombia",
+        "bio": "Artista pop de la nueva escena andina."
+      }
+    },
+    {
+      "id": "6",
+      "title": "Lluvia de abril",
+      "category": "Balada",
+      "mood": "Tranquila",
+      "duration": 260,
+      "rating": 5,
+      "description": "Balada lenta de piano sobre la nostalgia de las tardes lluviosas.",
+      "credits": [
+        {
+          "role": "Piano",
+          "name": "Valentina Ruiz"
+        },
+        {
+          "role": "Voz",
+          "name": "Mariana Vega"
+        },
+        {
+          "role": "Cuerdas",
+          "name": "Cuarteto Andino"
+        }
+      ],
+      "notes": [
+        "El piano principal es de 1960.",
+        "Dura más de cuatro minutos."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-12T10:00:00.000Z",
+      "artist": {
+        "name": "Mariana Vega",
+        "country": "Colombia",
+        "bio": "Cantautora tolimense."
+      }
+    },
+    {
+      "id": "7",
+      "title": "Fuego en la plaza",
+      "category": "Rock",
+      "mood": "Intensa",
+      "duration": 221,
+      "rating": 3,
+      "description": "Rock rápido y directo con coros que invitan a cantar en los conciertos.",
+      "credits": [
+        {
+          "role": "Voz",
+          "name": "Andrés Salas"
+        },
+        {
+          "role": "Bajo",
+          "name": "Camila Torres"
+        },
+        {
+          "role": "Producción",
+          "name": "Los Hijos del Combeima"
+        }
+      ],
+      "notes": [
+        "Se toca siempre al final de los conciertos.",
+        "Tiene un puente con solo de guitarra."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-15T10:00:00.000Z",
+      "artist": {
+        "name": "Los Hijos del Combeima",
+        "country": "Colombia",
+        "bio": "Banda de rock de Ibagué."
+      }
+    },
+    {
+      "id": "8",
+      "title": "Tarde de domingo",
+      "category": "Pop",
+      "mood": "Tranquila",
+      "duration": 187,
+      "rating": 4,
+      "description": "Pop acústico y tranquilo, perfecto para una playlist de descanso.",
+      "credits": [
+        {
+          "role": "Voz",
+          "name": "Lía Montes"
+        },
+        {
+          "role": "Guitarra",
+          "name": "Julián Peña"
+        },
+        {
+          "role": "Producción",
+          "name": "Esteban Mora"
+        }
+      ],
+      "notes": [
+        "Se grabó en una tarde de domingo.",
+        "Sirve de cierre para listas de descanso."
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-18T10:00:00.000Z",
+      "artist": {
+        "name": "Lía Montes",
+        "country": "Colombia",
+        "bio": "Artista pop de la nueva escena andina."
+      }
+    }
+  ]
+}
